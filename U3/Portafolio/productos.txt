@@ -1,0 +1,5 @@
+producto precio 
+lapiz 8
+borrador 3
+tajador 5
+cuaderno 10
